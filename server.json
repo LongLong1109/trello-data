@@ -1,5 +1,13 @@
 {
-  "users": [],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$ruoPcL5vRi6vM3iVSteeHOwQP3hR4yyLGkapqm6jQVW.NTd0wDZx6",
+      "firstName": "admin",
+      "lastName": "admin",
+      "id": 1
+    }
+  ],
   "boards": [
     {
       "columns": [
