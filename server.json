@@ -1,0 +1,26 @@
+{
+  "users": [],
+  "boards": [
+    {
+      "columns": [
+        {
+          "id": 1,
+          "name": "Todo",
+          "order": 1
+        },
+        {
+          "id": 2,
+          "name": "Do-ing",
+          "order": 2
+        },
+        {
+          "id": 3,
+          "name": "Done",
+          "order": 3
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "tasks": []
+}
