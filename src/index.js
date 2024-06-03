@@ -8,7 +8,7 @@ server.db = router.db;
 server.use((req, res, next) => {
   const corsWhitelist = [
     "http://localhost:5173",
-    "https://trello-ten-chi.vercel.app",
+    "https://task-management-clone.vercel.app",
   ];
 
   if (corsWhitelist.indexOf(req.headers.origin) !== -1) {
