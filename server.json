@@ -6,6 +6,13 @@
       "firstName": "admin",
       "lastName": "admin",
       "id": 1
+    },
+    {
+      "email": "user-testing@gmail.com",
+      "password": "$2a$10$Rzg38kg8PNoAIRDihHQwuO3b/5hShDMqzURukglkcOTULe1b0HYbC",
+      "firstName": "John",
+      "lastName": "Smith",
+      "id": 2
     }
   ],
   "boards": [
